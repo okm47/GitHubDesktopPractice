@@ -1,4 +1,4 @@
-Name: Abdullaev Muhammad
+Name: Abdullaev Muhammad and Samat 
 Course: Introduction to Engineering and Informatics
 Favorite programming language: Python 
 
