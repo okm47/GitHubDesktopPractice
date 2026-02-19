@@ -4,5 +4,5 @@ Favorite programming language: Python
 
 This is a new feature branch update.
 
-This is for task in groups
+This is for task in groups.
 
